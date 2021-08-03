@@ -1,0 +1,313 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 8032 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GitHub/AnimationTest
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65196
+Successfully changed project path to: D:/GitHub/AnimationTest
+D:/GitHub/AnimationTest
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHub/AnimationTest/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001859 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 19.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.587 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000423 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.771 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1558.
+Total: 1.615600 ms (FindLiveObjects: 0.118300 ms CreateObjectMapping: 0.028600 ms MarkObjects: 1.408700 ms  DeleteObjects: 0.059200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Animation.anim
+  artifactKey: Guid(d929e92bf0679824384e4cb0749a3422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animation.anim using Guid(d929e92bf0679824384e4cb0749a3422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d956f189fc71070b2cfee3d2873ba10') in 0.052974 seconds
+  Import took 0.067937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.017152 seconds.
+  path: Assets/New Animator Controller.controller
+  artifactKey: Guid(36a83e17906382148a5960d89782fc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animator Controller.controller using Guid(36a83e17906382148a5960d89782fc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49c63d904816d7abefda4c1653ec9c76') in 0.008846 seconds
+  Import took 0.010704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.388998 seconds.
+  path: Assets/AnimationControlerFadeIn.controller
+  artifactKey: Guid(36a83e17906382148a5960d89782fc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimationControlerFadeIn.controller using Guid(36a83e17906382148a5960d89782fc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f70f466c2e3df74a00ecb7d3ae35f0') in 0.007327 seconds
+  Import took 0.010707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.118020 seconds.
+  path: Assets/AnimationFadeIn.anim
+  artifactKey: Guid(d929e92bf0679824384e4cb0749a3422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimationFadeIn.anim using Guid(d929e92bf0679824384e4cb0749a3422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04bbefc62466b297db742d887dea3499') in 0.007586 seconds
+  Import took 0.023918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 211.226448 seconds.
+  path: Assets/Animations/animationFadeIn.anim
+  artifactKey: Guid(9b2653fc6702ad7489b570f4d742faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/animationFadeIn.anim using Guid(9b2653fc6702ad7489b570f4d742faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5362a679e8b301b2d9a5653ca484a9') in 0.008384 seconds
+  Import took 0.027747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.697727 seconds.
+  path: Assets/Animations/Image.controller
+  artifactKey: Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Image.controller using Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '737d62142abf876df6db0aaec1be5cdb') in 0.008443 seconds
+  Import took 0.011433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001460 seconds.
+  path: Assets/Animations/Image.controller
+  artifactKey: Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Image.controller using Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '737d62142abf876df6db0aaec1be5cdb') in 0.002078 seconds
+  Import took 0.004564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.724191 seconds.
+  path: Assets/Animations/FadeController.controller
+  artifactKey: Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/FadeController.controller using Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b2ca8dcdc2876caa2d69414cfca77df') in 0.007083 seconds
+  Import took 0.010205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.972166 seconds.
+  path: Assets/Animations/animationFadeIn.anim
+  artifactKey: Guid(9b2653fc6702ad7489b570f4d742faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/animationFadeIn.anim using Guid(9b2653fc6702ad7489b570f4d742faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db5f2a225246de609ef7fe680193ffad') in 0.002415 seconds
+  Import took 0.005067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.377445 seconds.
+  path: Assets/Animations/animationFadeIn 1.anim
+  artifactKey: Guid(8f8a66d40b2023c4186930b9f4c97c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/animationFadeIn 1.anim using Guid(8f8a66d40b2023c4186930b9f4c97c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '940bdbdb07b7f38ff53c7df07140f262') in 0.007204 seconds
+  Import took 0.022412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.100092 seconds.
+  path: Assets/Animations/animationFadeOut.anim
+  artifactKey: Guid(8f8a66d40b2023c4186930b9f4c97c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/animationFadeOut.anim using Guid(8f8a66d40b2023c4186930b9f4c97c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81768e6bbbb4b2f1f64b1dab8ec55f3') in 0.007716 seconds
+  Import took 0.009895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.049879 seconds.
+  path: Assets/Animations/animationFadeOut.anim
+  artifactKey: Guid(8f8a66d40b2023c4186930b9f4c97c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/animationFadeOut.anim using Guid(8f8a66d40b2023c4186930b9f4c97c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68e637753c82e26af4ade8758cb0269') in 0.001891 seconds
+  Import took 0.003983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 244.267964 seconds.
+  path: Assets/Animations/animationFadeIn.anim
+  artifactKey: Guid(9b2653fc6702ad7489b570f4d742faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/animationFadeIn.anim using Guid(9b2653fc6702ad7489b570f4d742faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3ef3e8b8955a29dcf96f7d9bf3d9c9') in 0.001820 seconds
+  Import took 0.003962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011027 seconds.
+  path: Assets/Animations/animationFadeIn.anim
+  artifactKey: Guid(9b2653fc6702ad7489b570f4d742faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/animationFadeIn.anim using Guid(9b2653fc6702ad7489b570f4d742faff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3ef3e8b8955a29dcf96f7d9bf3d9c9') in 0.002008 seconds
+  Import took 0.003652 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000462 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.699 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 1.706000 ms (FindLiveObjects: 0.128000 ms CreateObjectMapping: 0.028800 ms MarkObjects: 1.494700 ms  DeleteObjects: 0.053600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.464116 seconds.
+  path: Assets/Animations/FadeController.controller
+  artifactKey: Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/FadeController.controller using Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b54b10fed751b9f609d9295011252188') in 0.011961 seconds
+  Import took 0.029790 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000521 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.741 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 1.482500 ms (FindLiveObjects: 0.096400 ms CreateObjectMapping: 0.026800 ms MarkObjects: 1.323900 ms  DeleteObjects: 0.034700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.767241 seconds.
+  path: Assets/Animations/FadeController.controller
+  artifactKey: Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/FadeController.controller using Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e453b118bf8ea0a636dfe5a768eff5e') in 0.010518 seconds
+  Import took 0.013385 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000538 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.696 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1567.
+Total: 1.539000 ms (FindLiveObjects: 0.100100 ms CreateObjectMapping: 0.027200 ms MarkObjects: 1.373000 ms  DeleteObjects: 0.037900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.770686 seconds.
+  path: Assets/Animations/FadeController.controller
+  artifactKey: Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/FadeController.controller using Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041b9036084b6b3d647c726dd01b513f') in 0.011137 seconds
+  Import took 0.013392 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000448 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.665 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 1.356600 ms (FindLiveObjects: 0.098900 ms CreateObjectMapping: 0.027000 ms MarkObjects: 1.194300 ms  DeleteObjects: 0.035800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.434396 seconds.
+  path: Assets/Animations/ARFadeController.controller
+  artifactKey: Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/ARFadeController.controller using Guid(ffe6d440e49bebe449eb54b1b0247f34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb615496aaeeb31d11b41a55e73c478b') in 0.012002 seconds
+  Import took 0.013616 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000467 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.655 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 1.525300 ms (FindLiveObjects: 0.106600 ms CreateObjectMapping: 0.031200 ms MarkObjects: 1.351000 ms  DeleteObjects: 0.035800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
